@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inscription</string>
+    <string name="app_title">Inscription</string>
+
+    <string name="form_text">Remplissez le formulaire ci-dessous pour devenir un utilisateur</string>
+    <string name="form_name">Nom complet</string>
+    <string name="form_email">Adresse email</string>
+    <string name="form_phone">Numéro de téléphone</string>
+    <string name="form_pwd">Mot de passe</string>
+    <string name="form_check">J\'ai lu les termes et conditions</string>
+    <string name="btn_go">Soumettre</string>
+    <string name="btn_lang">Changer de langue</string>
+</resources>
